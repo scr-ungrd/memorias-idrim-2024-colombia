@@ -10,9 +10,3 @@ abstract: El sistema de evaluación local automatizada en tiempo real (ALERT2 --
 categories:
 - Sesión 24. Sistemas de Alerta Temprana
 ---
-
-El sistema de evaluación local automatizada en tiempo real (ALERT2 -- Automated Local Evaluation in Real Time), es un protocolo de radio desarrollado y utilizado como un estándar abierto por el Servicio Meteorológico Nacional de los Estados Unidos para redes de monitoreo ambiental de alerta temprana para garantizar una interoperabilidad robusta entre plataformas independientes de hardware y software, usando sensores remotos para transmitir datos ambientales vía radio a estaciones base para su análisis y procesamiento.
-
-Un Sistema de Alerta Temprana (SAT) será usado en diferentes cuencas hidrográfica en Perú, para proteger a la población, autoridades y entidades locales frente a inundaciones, y deslizamientos de tierra. Este sistema proporcionará información en tiempo real para permitir respuestas efectivas y salvaguardar vidas y propiedades. El sistema a utilizar este compuesto por: Radares, redes hidrológicas, redes meteorológicas, centros de procesamientos centralizados, red de sirenas, redes de monitoreo para movimientos de tierra, plataforma para el conocimiento del riesgo, y módulos de monitoreo y análisis de los centros de operación de emergencia regionales y nacionales (COER). Los beneficios esperados después de la implementación del sistema son la detección temprana y respuesta rápida a inundaciones y movimientos de tierra, protección de vidas, propiedades, mejora de la resiliencia y capacidad de respuesta de las comunidades locales, y la integración e interoperabilidad de los sistemas a nivel nacional.
-
-**Palabras claves**: Alerta2, Sistema de alerta temprana, Inundaciones, Deslizamiento de tierra, Radar, Sirenas.

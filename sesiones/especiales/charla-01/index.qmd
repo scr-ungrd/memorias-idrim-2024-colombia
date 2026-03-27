@@ -19,9 +19,3 @@ abstract: Durante la sesión se abordó la relevancia de la localización del Ma
 categories:
 - Sesiones Especiales
 ---
-
-**Sobre la sesión:** Durante la sesión se abordó la relevancia de la localización del Marco de Sendai, con un enfoque en los Sistemas de Alerta Temprana Multi-Amenaza (MHEWS), y se explorarán los esfuerzos y herramientas de la iniciativa Desarrollando Ciudades Resilientes 2030 (MCR 2030). Posteriormente, se realizó una actividad para implementar la herramienta Scorecard (MHEWS), como parte de un piloto a nivel global. Los participantes se organizaron en mesas de trabajo por ciudades, permitiendo un enfoque específico y contextualizado. Esta iniciativa se relaciona estrechamente con la Iniciativa de Sistemas de Alerta Temprana para Todas las Personas (EW4All), que busca lograr una cobertura global y multi-amenaza para 2027.
-
-**Objetivos:** 1) Fortalecer la relevancia de los Sistemas de Alerta Temprana Multi-Amenaza a nivel local. 2) Aumentar la visibilidad y el interés en la Herramienta Scorecard: Anexo para los Sistemas de Alerta Temprana Multi-Amenaza.
-
-**Justificación:** La sesión propuesta se alinea directamente con la temática y el objetivo de IDRIM 2024, \"Comunidades resilientes a los desastres por la vida\". Destaca los esfuerzos de la iniciativa Desarrollando Ciudades Resilientes 2030 (MCR 2030) para fortalecer la resiliencia local. Además, introduce la Herramienta Scorecard como un piloto global, brindando a los participantes la oportunidad de ser pioneros en su conocimiento y aplicación. Esto además de promover una sesión teórica, permitirá brindar un entrenamiento rápido del uso de estos instrumentos. También, al abordar el tema de la Iniciativa de Sistemas de Alerta Temprana para Todas las Personas (EW4All), la sesión destacó la importancia de preparar a las comunidades para enfrentar una variedad de desafíos.

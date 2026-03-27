@@ -12,11 +12,3 @@ abstract: Docente investigadora, Maestría en Gestión del Riesgo y Desarrollo, 
 categories:
 - Sesión 20. Capacidad adaptativa y reducción de la vulnerabilidad ante riesgos ambientales y climáticos
 ---
-
-Docente investigadora, Maestría en Gestión del Riesgo y Desarrollo, Escuela de Ingenieros Militares -- ESING
-
-[[cpcocag@unal.edu.co]{.underline}](mailto:cpcocag@unal.edu.co)
-
-[[claudia.coca@esing.edu.co]{.underline}](mailto:claudia.coca@esing.edu.co)
-
-Las Normas de Sismo Resistencia - NSR en Colombia emergieron hace 30 años gracias a la agencia de los colapsos de cientos de pequeñas viviendas, algunas hechas por el gobierno. Con estas normas, configuradas a partir de un código privado para grandes edificios, se inicia la gobernanza pública de lo sísmico y suponen una actuación sobre las construcciones posteriores a su adopción. Sin embargo, quién construye la vivienda, cuáles son sus técnicas y experticias, cómo se hacen, en qué tiempo, cuáles son las proyecciones de sus etapas constructivas y quiénes intervienen en la producción social de vivienda tiene respuestas. Así, en Bogotá, durante décadas se han producido millones de metros cuadrados de viviendas ingobernables que son clasificadas de diferentes maneras dependiendo de las decisiones políticas que se requieren tomar. En este trabajo, se observan las prácticas de los técnicos y se demuestra empíricamente que la producción ontológica del riesgo sísmico está atada a unas condiciones de posibilidad y de elección. Estas prácticas son tan diferentes como las realidades que con ellas se representan. El sismo para asegurar viviendas no es el mismo sismo que se divulga, ni el que se usa para la estrategia para el manejo de desastres en la ciudad, lo propio ocurre con la vulnerabilidad la cual tiene limitado número de colapsos prescritos según diferentes fuentes de datos hechas para otros fines. Al final, se muestra cómo, a pesar de la evolución de las normas y de que los riesgos sísmicos son producciones sociotécnicas contingentes, las viviendas de producción social no se reconocen ni se incluyen dentro de las políticas públicas para la reducción del riesgo. Entonces, desde la perspectiva de los asuntos de cuidado, se busca dar voz a miles de viviendas bogotanas excluidas para visibilizar lo que se ha borrado y pensar alternativas que las hagan viables a futuro.

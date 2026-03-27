@@ -27,5 +27,3 @@ abstract: Para mitigar el impacto de los desastres, es necesario implementar una
 categories:
 - Sesión 18. Aseguramiento y protección financiera para la GRD
 ---
-
-Para mitigar el impacto de los desastres, es necesario implementar una serie de medidas, incluido el uso de subsidios, la preparación de fondos excedentes por adelantado y la compra de seguros contra desastres. Este artículo tiene como objetivo demostrar empíricamente el impacto de diversas políticas de financiación de riesgos en la recuperación de los establecimientos comerciales en el caso de los recientes desastres por inundaciones en Japón. En concreto, analizamos empíricamente los factores que influyen de forma significativa en el proceso de recuperación de los establecimientos comerciales, utilizando los resultados de una encuesta mediante cuestionario y una encuesta mediante entrevistas dirigidas a los establecimientos afectados. En particular, examinamos los efectos de las medidas de financiación de riesgos, como la cobertura de seguros, los gastos de contingencia y los subsidios, en la velocidad de la recuperación.

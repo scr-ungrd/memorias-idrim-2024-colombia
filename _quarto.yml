@@ -181,7 +181,7 @@ book:
     - sesiones/sesion-20/charla-06/index.qmd
     - sesiones/sesion-20/charla-07/index.qmd
     - sesiones/sesion-20/charla-08/index.qmd
-  - part: Sesión 21. Amazonia, comunidades indígenas y locales
+  - part: sesiones/sesion-21/index.qmd
     chapters:
     - sesiones/sesion-21/charla-01/index.qmd
     - sesiones/sesion-21/charla-02/index.qmd

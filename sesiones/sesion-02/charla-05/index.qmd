@@ -16,7 +16,3 @@ abstract: La educación para la preparación ante desastres en las escuelas no s
 categories:
 - Sesión 2. Comunicación y educación en GRD
 ---
-
-La educación para la preparación ante desastres en las escuelas no sólo beneficia a los niños y estudiantes, sino que también tiene un efecto dominó en las personas que los rodean. Existe un gran potencial para mejorar la preparación ante desastres de toda la comunidad, ya que los niños transmiten las lecciones que aprenden de la educación sobre desastres a sus familias y comunidades. Sin embargo, el medio para esto no ha sido bien estudiado.
-
-Esta presentación informa sobre el efecto de difusión de la educación para la preparación ante desastres en las escuelas utilizando \"cartas\" como medio de educación para la preparación ante desastres en las escuelas. Los resultados sugieren que cuando los niños comunican lo que han aprendido en la educación para la preparación ante desastres en las escuelas a sus \"seres queridos\" a través de cartas, es probable que esto conduzca a un aumento en la conciencia de los lectores sobre la prevención de desastres y su voluntad de implementar medidas de prevención de desastres. Basándose en una serie de resultados, el efecto de propagar la prevención de desastres a los lectores a través de cartas se presenta como un \"modelo de propagación de la prevención de desastres a través de cartas\" y se explora el potencial de las cartas como una herramienta de comunicación para la prevención de desastres.

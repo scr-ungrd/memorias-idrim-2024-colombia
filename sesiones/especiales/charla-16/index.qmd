@@ -11,9 +11,3 @@ abstract: La sesión es una introducción práctica al uso de OpenStreetMap (OSM
 categories:
 - Sesiones Especiales
 ---
-
-**Sobre la sesión:** La sesión es una introducción práctica al uso de OpenStreetMap (OSM), una plataforma colaborativa para la creación de mapas abiertos. Se muestra cómo acceder al sitio, visualizar información geoespacial y realizar ediciones en el mapa. Se hace énfasis en su potencial para comunidades, investigadores y entidades que necesitan datos geográficos actualizados y de libre acceso.
-
-**Objetivos:** Familiarizar a los participantes con la interfaz y funcionalidades básicas de OpenStreetMap. Mostrar cómo contribuir al mapeo colaborativo. Enseñar el uso de herramientas como iD Editor para modificar mapas. Impulsar el uso de OSM como fuente de datos para análisis en gestión de riesgos, planificación territorial y otras áreas. Promover una comunidad activa de usuarios y mapeadores.
-
-**Justificación:** En contextos donde el acceso a datos espaciales es limitado o costoso, OpenStreetMap representa una alternativa democrática y colaborativa para el levantamiento y acceso a información geográfica. Es especialmente útil en países en desarrollo, en actividades de respuesta a emergencias, planificación urbana, proyectos ambientales y en la gestión del riesgo de desastres. Además, fortalece capacidades locales y fomenta el empoderamiento comunitario a través de la producción de conocimiento propio.

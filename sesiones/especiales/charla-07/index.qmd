@@ -35,9 +35,3 @@ abstract: Los accidentes Natech son consecuencia del impacto de amenazas natural
 categories:
 - Sesiones Especiales
 ---
-
-**Sobre la sesión:** Los accidentes Natech son consecuencia del impacto de amenazas naturales en instalaciones industriales, con la consiguiente liberación de materiales peligrosos. En los últimos años, se ha prestado mayor atención a las amenazas y riesgos Natech. Esto incluye su consideración en el contexto de la resiliencia de infraestructuras críticas, como las energías renovables, y el cambio climático. Además, se están realizando esfuerzos para abordar los problemas de gobernanza de riesgos Natech. La sesión contó con 6 presentaciones de expertos internacionales en la materia.
-
-**Objetivos:** El propósito de esta sesión es generar conciencia sobre el riesgo Natech y presentar un resumen de las últimas direcciones de investigación basadas en los hallazgos del 8º Simposio Natech que se llevó a cabo el 1 y 2 de julio de 2024, así como las iniciativas internacionales actuales para la gobernanza del riesgo Natech de todo el mundo.
-
-**Justificación**: La sesión propuesta se alinea con el tema de IDRIM 2024 «Comunidades resilientes ante desastres para la vida» dado que aborda una de las áreas temáticas de la conferencia.

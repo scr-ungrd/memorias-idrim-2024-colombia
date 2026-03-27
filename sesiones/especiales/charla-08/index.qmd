@@ -29,9 +29,3 @@ abstract: Con la inflación global, los cambios en el entorno laboral, las inter
 categories:
 - Sesiones Especiales
 ---
-
-**Sobre la sesión:** Con la inflación global, los cambios en el entorno laboral, las interrupciones en la cadena de suministro y los desastres, el impacto en las empresas y las economías es cada vez más diverso. Esta sesión se centró en métodos para analizar el impacto económico de los desastres y en estudios de caso de pequeñas y medianas empresas que enfrentan diversas perturbaciones externas, como la escasez de mano de obra, las limitaciones en las emisiones de CO2, los problemas en la cadena de suministro y los desastres.
-
-**Objetivos:** La sesión fue organizada por especialistas en análisis del impacto económico de desastres de Japón y Estados Unidos y tuvo como objetivo intercambiar el estado del arte en esta área entre panelistas y audiencias interesadas en las pérdidas por desastres, la compensación y el costo-beneficio de las contramedidas.
-
-**Justificación:** La sesión estuvo relacionada con los temas de la conferencia "4.b Estimación de pérdidas y daños post-desastre" y "3.d Aseguramiento y protección financiera", pero se centra específicamente en los impactos y roles del entorno empresarial circundante y en las metodologías para el análisis cuantitativo de pérdidas y resiliencia. Los ponentes son miembros del proyecto de investigación conjunto entre la Agencia Japonesa de Ciencia y Tecnología y la Fundación Nacional de Ciencias de EE. UU., y la presentación de nuestra investigación conjunta y el objetivo compartido resultará de gran utilidad para todos los asistentes interesados ​​en este área.

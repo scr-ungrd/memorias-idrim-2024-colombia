@@ -1,0 +1,19 @@
+---
+title: "Sesión 21. Amazonia, comunidades indígenas y locales"
+---
+
+## Resúmenes
+
+1. [Mapas Comunitarios: una herramienta de participación en la Gestión de Riesgo de Desastres](charla-01/index.qmd)
+2. [Las prácticas culturales indígenas para la reducción del riesgo de incendios forestales](charla-02/index.qmd)
+3. [Estrategia de reducción de riesgos de desastres con enfoque étnico diferencial para los pueblos indígenas Awá y Pastos, en el Departamento de Nariño, Colombia](charla-03/index.qmd)
+4. [Acción de investigación colaborativa "Bosques tropicales: implicaciones globales y acciones urgentes" - FORESTS 2024](charla-04/index.qmd)
+5. [Biodiversidad, Personas y Territorios](charla-05/index.qmd)
+6. [Amazonia en llamas: Gobernanza comunitaria y estrategias internacionales](charla-06/index.qmd)
+
+## Video de la sesión
+
+<iframe src="https://drive.google.com/file/d/17n0yU_4epa5aQ3DBUoOxIDc5leToPUIv/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+
+<iframe src="https://drive.google.com/file/d/1sexrKT1NiJAifs3M6L1u3392tbg_lBzv/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+

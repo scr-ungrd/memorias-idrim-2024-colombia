@@ -20,9 +20,3 @@ abstract: La sesión trató sobre el uso de DesignSafe-CI, una plataforma ciberi
 categories:
 - Sesiones Especiales
 ---
-
-**Sobre la sesión:** La sesión trató sobre el uso de DesignSafe-CI, una plataforma ciberinfrastructura desarrollada por el programa NHERI (Natural Hazards Engineering Research Infrastructure) de la NSF en EE.UU. Esta plataforma proporciona acceso a herramientas avanzadas para la investigación, análisis y visualización de datos relacionados con desastres como terremotos, huracanes, tornados e inundaciones. La sesión presenta cómo investigadores pueden usar DesignSafe para integrar sus datos, modelar escenarios extremos y compartir resultados de forma colaborativa.
-
-**Objetivos**: Introducir la plataforma DesignSafe como herramienta fundamental para la investigación en ingeniería y ciencia de riesgos por amenazas naturales. Mostrar su utilidad en el ciclo completo del dato, desde la recopilación hasta la preservación y publicación. Presentar casos de uso reales donde se aplicaron modelos computacionales y simulaciones estructurales ante eventos extremos. Promover la colaboración entre investigadores, facilitando el acceso abierto a datos y resultados.
-
-**Justificación**: El aumento en la frecuencia e intensidad de los desastres exige herramientas integradas para mejorar la resiliencia de infraestructuras y comunidades. DesignSafe surge como respuesta a esta necesidad, permitiendo a investigadores desarrollar ciencia reproducible, evaluar vulnerabilidades estructurales y proponer soluciones de diseño más seguras. La ciberinfraestructura aborda la falta de plataformas que integren almacenamiento, análisis y visualización de datos de manera accesible y escalable para la comunidad científica.

@@ -26,9 +26,3 @@ abstract: La sesión se centró en debatir cómo fortalecer la relación entre l
 categories:
 - Sesiones Especiales
 ---
-
-**Sobre la sesión:** La sesión se centró en debatir cómo fortalecer la relación entre la sociedad y la ciencia para promover la reducción del riesgo de desastres basada en la ciencia y la evidencia. Los desastres abordados son diversos, desde terremotos y tsunamis hasta desastres climatológicos y desastres relacionados con Natech. Investigadores y profesionales presentarán sus metodologías para conectar el conocimiento científico con las comunidades en diferentes lugares de Japón, Estados Unidos, México y Colombia.
-
-**Objetivos:** El objetivo de la sesión fue compartir experiencias académicas y prácticas sobre cómo unir la ciencia y la comunidad, y fomentar el debate sobre cómo profundizar la ciencia de la implementación.
-
-**Justificación**: Se ha observado desconfianza hacia la ciencia en todo el mundo. Por lo tanto, es necesario cambiar la forma tradicional de construir ciencia y el modelo de comunicación de riesgos. Por ello, la sesión intentó aportar una nueva perspectiva para fortalecer la relación entre ciencia y sociedad. Esta idea se enmarca en el concepto del IDRiM 2024 de lograr comunidades resilientes para la vida.

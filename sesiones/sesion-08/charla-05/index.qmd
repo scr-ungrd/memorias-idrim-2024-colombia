@@ -7,5 +7,3 @@ abstract: Julio Fierro, Servicio Geológico Colombiano, ​[[jfierro@sgc.gov.co]
 categories:
 - Sesión 8. Percepción del riesgo, comportamiento humano y cultura
 ---
-
-Julio Fierro, Servicio Geológico Colombiano, ​[[jfierro@sgc.gov.co]{.underline}](mailto:jfierro@sgc.gov.co)

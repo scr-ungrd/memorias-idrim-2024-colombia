@@ -19,11 +19,3 @@ abstract: Cartagena de Indias (D.T.), con cerca de 2 \'300.000 habitantes entre 
 categories:
 - Sesión 3. Explorando las amenazas marino costeras
 ---
-
-Cartagena de Indias (D.T.), con cerca de 2 \'300.000 habitantes entre residentes y turistas, es la ciudad histórica colombiana, patrimonio cultural de la humanidad, fundada hace casi 500 años.
-
-Diversos estudios indican que Cartagena se está hundiendo a un ritmo mayor comparado con el aumento del nivel del mar a causa del clima global, siendo el 41% relacionado a movimientos geológicos verticales (1). Otro estudio reveló una región con acoplamiento interplaca, o "bloqueada" costa afuera de Cartagena con potencial de generar un sismo de Mw 8, y tsunami, con una recurrencia sísmica estimada de 600 años aproximadamente (2). Dichos estudios han modelado la subsidencia costera con base en datos de GPS, mareógrafos e imágenes satelitales de la zona litoral de Cartagena y sus alrededores.
-
-Gracias a información batimétrica de 30 m (3), modelos digitales de terreno de 12,5m (4) y anaglifos, se ha identificado que en el talud continental frente a Cartagena se presenta un bloque desplazado verticalmente cerca de 1300m y limitado por dos lineamientos, uno de ellos con orientación aproximadas E-W que coincide con la "región bloqueada" que se mencionó en el segundo estudio; además es posible que el bloque descolgado sea consecuencia de un anterior sismo y un paleo-tsunami, cuyos datos habrá que recopilar considerando la presencia de depósitos asociados a tsunamis a lo largo de la costa. Estas observaciones nos conducen a plantear la hipótesis de inestabilidad de la zona mencionada, afectada por posibles fallas que atraviesan no solo el talud continental sino también la plataforma.
-
-Por estas razones se propone establecer un observatorio para estudios morfodinámicos en Cartagena, necesario para mitigar las amenazas de origen natural asociadas y sus riesgos, que ayuden a encontrar soluciones y recomendaciones apropiadas para la actualización del plan de ordenamiento territorial y que ofrezcan bienestar a pobladores, turistas e inversionistas.

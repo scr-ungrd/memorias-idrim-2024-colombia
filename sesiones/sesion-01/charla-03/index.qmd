@@ -29,9 +29,3 @@ abstract: Debido a la posición geográfica del archipiélago de San Andrés, Pr
 categories:
 - Sesión 1. Justicia climática, cambio climático y riesgos emergentes
 ---
-
-Debido a la posición geográfica del archipiélago de San Andrés, Providencia y Santa Catalina (SPSC), esta es la parte del territorio colombiano más expuesto a ser inundado por marea de tormenta de ciclones tropicales (CT). Entre los peligros asociados a los CT, las inundaciones suelen ocasionar los mayores daños. En este estudio se evalúa el efecto del cambio climático en la inundación por marea de tormenta en el archipiélago de SPSC. Para ello se habilitó un modelo hidrodinámico para modelar la marea de tormenta e inundación por CT, con una máxima resolución espacial de la malla computacional de 30m en las áreas propensas a inundación. El modelo fue forzado en la superficie con campos de viento y de presión de CT sintéticos generados tanto para clima pasado como para clima futuro bajo escenarios de cambio climático, considerando las trayectorias socio- económicas compartidas emanadas del sexto reporte del Panel Intergubernamental de Cambio Climático. Esta metodología permitió generar marea de tormenta e inundación sintética por CT en estas islas, a la cual se le asignó una probabilidad de ocurrencia.
-
-Resultados preliminares incluyen mapas de inundación por marea de tormenta de CT con periodos de retorno asociados, tanto para clima pasado como para futuro, así como la identificación de zonas con asentamientos humanos expuestas a la inundación. Además, se mostrarán mapas de inundación considerando medidas de adaptación para la reducción de riesgo de desastres, integrando consideraciones socio-económicas locales dado que, en la ausencia de estas, las soluciones fallarán en su implementación.
-
-Los resultados de este trabajo proveen herramientas a los tomadores de decisiones en el diseño e implementación de medidas de protección a inundaciones costeras.

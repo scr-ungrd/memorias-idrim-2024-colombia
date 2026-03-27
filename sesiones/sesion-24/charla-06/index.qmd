@@ -23,9 +23,3 @@ abstract: '''Ofa Fa'' Anunu - Director of Meteorology and Coast Watch Services a
 categories:
 - Sesión 24. Sistemas de Alerta Temprana
 ---
-
-'Ofa Fa' Anunu - Director of Meteorology and Coast Watch Services at Tonga
-
-El volcán Hunga Tonga-Hunga hizo erupción el 15 de enero de 2022 en la zona insular en el Reino de Tonga en el océano Pacífico, generando un tsunami que causó afectaciones locales y activó los sistemas de alerta por tsunami en el Pacífico Americano y Japón. Aquí se resume cómo actuaron los sistemas de alerta temprana de tsunami durante el evento en Perú, Colombia y Costa Rica. Se discuten cinco temáticas: 1) Eficacia de la vigilancia del riesgo de tsunami y la difusión de alertas durante el evento volcánico y de tsunami. 2) Obstáculos en las telecomunicaciones locales e internacionales durante el evento, y el tipo de instrumentación utilizada para el análisis de la emergencia ¿Cómo pueden mejorar las respuestas futuras la tecnología y los protocolos de comunicación? 3) Cómo mitigaron las comunidades preparadas los daños del tsunami a nivel local e internacional y estrategias para mejorar la preparación de la comunidad mundial para los tsunamis. 4) Conclusiones obtenidas de la implementación del programa Tsunami Ready en comunidades costeras de todo el mundo y beneficios durante el evento de Tonga. 5) Obstáculos para fortalecer la gestión global del riesgo de tsunami y cómo pueden colaborar las naciones con el PTWC para encontrar soluciones efectivas. Se concluye informando las acciones del PTWC en Colombia.
-
-**Palabras claves**: Tsunami, Sistema de alerta temprana, resiliencia comunitaria

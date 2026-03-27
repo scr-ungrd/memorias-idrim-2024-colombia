@@ -21,5 +21,3 @@ abstract: La preparación ante tsunamis debe considerar procesos de educación a
 categories:
 - Sesión 6. Comunicación y educación en DRM
 ---
-
-La preparación ante tsunamis debe considerar procesos de educación ambiental con las comunidades rurales costeras de Colombia y Panamá, en ambas costas del caribe y pacífico latinoamericano. Fortalecer la participación de la comunidad costera es primordial para la preparación ante tsunamis y amenazas naturales. Se describe el proceso inicial de educación ambiental para la preparación ante tsunamis en Sapzurro (Colombia), La Miel (Panamá) y Turbo (Colombia). La educación ambiental con una perspectiva optimista transformadora desde la pedagogía crítica de Paulo Freire contribuye a la preparación ante tsunamis. Fortalecer a la comunidad es nuestra meta.

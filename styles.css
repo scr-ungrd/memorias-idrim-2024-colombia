@@ -1,4 +1,9 @@
 /* Estilos Memorias IDRIM 2024 */
+
+/* Colapsar secciones del sidebar que no contienen la página activa */
+.sidebar-item-container.collapse.show:not(:has(.active)) {
+  display: none !important;
+}
 .quarto-title-meta { margin-bottom: 1.5em; }
 .quarto-listing { margin-top: 1em; }
 .quarto-title-author { font-style: italic; }

@@ -1,5 +1,5 @@
 ---
-title: Alta Gerencia para la Gestión del Riesgo
+title: 'Hospitales resilientes frente a emergencias sanitarias y desastres, y equipos médicos de emergencia – Organización Mundial de la Salud (OMS)-Organización Panamericana de la Salud (OPS)-Ministerio de Salud'
 author:
 - name: Ciro Ugarte
   affiliations:
@@ -24,3 +24,7 @@ abstract: Se destacó la importancia de fortalecer la resiliencia de los sistema
 categories:
 - Sesiones Especiales
 ---
+
+## Video de la sesión
+
+<iframe src="https://drive.google.com/file/d/1hyU5jagYO_pBZS3fuxrBGAYs7ZUyb5vT/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>

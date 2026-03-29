@@ -1,9 +1,7 @@
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  document.querySelectorAll('.sidebar-item-container.collapse.show').forEach(function (el) {
-    if (!el.querySelector('.active')) {
-      el.classList.remove('show');
-    }
+  document.querySelectorAll('.sidebar-section.collapse.show').forEach(function (el) {
+    el.classList.remove('show');
   });
 });
 </script>

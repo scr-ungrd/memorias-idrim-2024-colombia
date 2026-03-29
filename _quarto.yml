@@ -82,7 +82,7 @@ book:
     - sesiones-paralelas/sesion-23/index.qmd
     - sesiones-paralelas/sesion-24/index.qmd
 sidebar:
-  collapse-level: 1
+  collapse-level: 0
 format:
   html:
     theme:

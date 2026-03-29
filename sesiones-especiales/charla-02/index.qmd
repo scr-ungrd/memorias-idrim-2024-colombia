@@ -1,0 +1,33 @@
+---
+title: 'Voces Diversas e Inclusivas, un Futuro Resiliente: Participación de Mujeres, personas con movilidad reducida, comunidad LGBT y enfoque étnico en la Gestión del Riesgo de Desastres y cambio climático'
+author:
+- name: Jeisson Orlando Garcia Orjuela
+  affiliations:
+  - Unidad Nacional para la Gestión del Riesgo de Desastres, Subdirección para el Conocimiento del Riesgo, jeisson.garcia@gestiondelriesgo.gov.co
+- name: Rosa María Juarez Cobeñas
+  affiliations:
+  - Presidenta de la red inclusiva de gestión de riesgos desastres y discapacidad de América Latina y el caribe, RED GIRDD-LAC, Perú
+- name: Heidy Katerine Cataño
+  affiliations:
+  - Bomberos Indígenas Riosucio, Caldas, Colombia
+- name: Michael Méndez
+  affiliations:
+  - University of California, Berkeley, Estados Unidos
+- name: Funda Atun
+  affiliations:
+  - University of Twente, Países Bajos
+keywords:
+- Diversidad
+- equidad
+- inclusión
+- enfoque inclusivo
+abstract: Se abordó la importancia de la participación de jóvenes, mujeres, la comunidad LGBT y grupos étnicos en la gestión del riesgo de desastres (GRD) y la adaptación al cambio climático en Colombia.
+  A través de un conversatorio, los invitados/expertos compartieron experiencias, estrategias y mejores prácticas para integrar un enfoque inclusivo en la planificación y ejecución de políticas de gestión
+  del riesgo.
+categories:
+- Sesiones Especiales
+---
+
+## Video de la sesión
+
+<iframe src="https://drive.google.com/file/d/1B9DmnDMXIEpVHeClfZoXSiFeOHJryHaw/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>

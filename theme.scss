@@ -1,0 +1,32 @@
+/*-- scss:defaults --*/
+
+$primary: #003A70 !default;
+$link-color: #003A70;
+$sidebar-hl: #E54D23 !default;
+$toc-color: #000;
+$toc-active-border: #003A70;
+$toc-active-background: #EEECEA !default;
+
+/*-- scss:rules --*/
+
+.sidebar-title {
+  color: #222322;
+}
+
+div.sidebar-item-container .active {
+  font-weight: bold;
+  color: #003A70 !important;
+}
+
+.sidebar-navigation a:hover {
+  color: #E54D23 !important;
+}
+
+.nav-link.active {
+  background-color: #efc078 !important;
+}
+
+.footnotes {
+  font-size: .9rem;
+  color: var(--bs-gray-700);
+}

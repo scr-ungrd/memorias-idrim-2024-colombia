@@ -1,0 +1,34 @@
+---
+title: 'Plenarias'
+author:
+- name: Autor 1
+  affiliations:
+  
+categories:
+- Sesiones Especiales
+---
+
+## Apertura evento
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/haExfzycLdE" allowfullscreen></iframe>
+
+## Alertas tempranas para todos
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/qFK-kcBG57M" allowfullscreen></iframe>
+
+## Invertir en la Gestión del Riesgo
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/tRfozrW6Sns" allowfullscreen></iframe>
+
+## Charlas Magistrales día 2
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/AjNJ2feZcFo" allowfullscreen></iframe>
+
+## Manejo integral del fuego
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/DDkttsBOOCU" allowfullscreen></iframe>
+
+## Ceremonia de premiación y clausura
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/EtTv1vtIRPM" allowfullscreen></iframe>
+

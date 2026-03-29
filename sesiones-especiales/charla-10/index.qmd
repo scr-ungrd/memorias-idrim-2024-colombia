@@ -1,0 +1,32 @@
+---
+title: Comunidad con Ciencia - Cómo construir una mejor relación entre la sociedad y la ciencia para la reducción del riesgo de desastres
+author:
+- name: Genta Nakano
+  affiliations:
+  - Profesor asistente, Instituto de Investigación para la Prevención de Desastres, Universidad de Kioto
+- name: Yoshihiro Ito
+  affiliations:
+  - Universidad de Colorado, Denver, EE. UU.
+- name: Hamilton Bean
+  affiliations:
+  - Unidad Nacional para la Gestión del Riesgo de Desastres, Colombia
+- name: Maria Camila Suarez Paba
+  affiliations:
+  - Profesor asistente, Instituto de Investigación para la Prevención de Desastres, Universidad de Kioto
+- name: Natsumi Okada
+  affiliations:
+  - Profesor asistente, Instituto de Investigación para la Prevención de Desastres, Universidad de Kioto
+keywords:
+- Conocimiento científico
+- comunidad
+- reducción del riesgo de desastres
+abstract: La sesión se centró en debatir cómo fortalecer la relación entre la sociedad y la ciencia para promover la reducción del riesgo de desastres basada en la ciencia y la evidencia. Los desastres
+  abordados son diversos, desde terremotos y tsunamis hasta desastres climatológicos y desastres relacionados con Natech. Investigadores y profesionales presentarán sus metodologías para conectar el conocimiento
+  científico con las comunidades en diferentes lugares de Japón, Estados Unidos, México y Colombia.
+categories:
+- Sesiones Especiales
+---
+
+## Video de la sesión
+
+<iframe src="https://drive.google.com/file/d/1VUW3FpnLdrLlRuJA_rK_haTeFNYgexum/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>

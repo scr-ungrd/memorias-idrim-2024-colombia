@@ -1,0 +1,41 @@
+---
+title: De la gestión de riesgos Natech a la gobernanza de riesgos para construir resiliencia territorial
+author:
+- name: Ana Maria Cruz
+  affiliations:
+  - Instituto de Investigación para la Prevención de Desastres, Universidad de Kioto, Japón
+- name: Elisabeth Krausmann
+  affiliations:
+  - Comisión Europea, Centro Común de Investigación, Italia
+- name: Maria Camila Suarez Paba
+  affiliations:
+  - Unidad Nacional para la Gestión del Riesgo, Colombia
+- name: Dimitrios Tzioutzios
+  affiliations:
+  - Universidad Estatal de Portland, EE.UU
+- name: Nicola Paltranieri
+  affiliations:
+  - Oficina de las Naciones Unidas para la Reducción del Riesgo de Desastres -- Oficina Regional para las Américas y el Caribe, Panamá
+- name: Luke Hanst
+  affiliations:
+  - Instituto de Gestión de Desastres y Reconstrucción, Universidad de Sichuan, China
+- name: Yezid Nino
+  affiliations:
+  - Instituto de Investigación para la Prevención de Desastres, Universidad de Kioto, Japón
+- name: Xiaolong Luo
+  affiliations:
+  - Instituto de Investigación para la Prevención de Desastres, Universidad de Kioto, Japón
+keywords:
+- Gestión del riesgo Natech
+- Gobernanza del riesgo
+- resiliencia territorial
+abstract: Los accidentes Natech son consecuencia del impacto de amenazas naturales en instalaciones industriales, con la consiguiente liberación de materiales peligrosos. En los últimos años, se ha prestado
+  mayor atención a las amenazas y riesgos Natech. Esto incluye su consideración en el contexto de la resiliencia de infraestructuras críticas, como las energías renovables, y el cambio climático. Además,
+  se están realizando esfuerzos para abordar los problemas de gobernanza de riesgos Natech. La sesión contó con 6 presentaciones de expertos internacionales en la materia.
+categories:
+- Sesiones Especiales
+---
+
+## Video de la sesión
+
+<iframe src="https://drive.google.com/file/d/1hkZLnPPXrNGr7tvFVGdVhMlPxsVoiEDY/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>

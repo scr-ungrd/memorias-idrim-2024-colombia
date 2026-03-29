@@ -1,0 +1,32 @@
+---
+title: 'Sistemas de Información para la Gestión del Riesgo de Desastres: Experiencias de Antioquia y Medellín'
+author:
+- name: Carlos Andrés Quintero Monsalve
+  affiliations:
+  - Departamento Administrativo de Gestión Del Riesgo de Desastres de Medellín DAGRD, Director General
+- name: Carlos Andrés Rios Puerta
+  affiliations:
+  - Departamento Administrativo de Gestión Del Riesgo de Desastres de Medellín DAGRAN, Director General
+- name: Diego Armando Rivera Gutierrez
+  affiliations:
+  - ONU Mujeres
+keywords:
+- Sistemas de información
+- Gestión del riesgo de desastres
+- Ciudades inteligentes
+- Tecnologías innovadoras
+- Interoperabilidad
+abstract: 'Esta sesión abordó el rol de los sistemas de información en la gestión del riesgo de desastres (GRD), en cumplimiento de la Ley 1523 de 2012, que exige su creación a nivel territorial y su interoperabilidad
+  con el SNGRD. Se consideró también el Marco de Sendai, que impulsa el uso de tecnologías de información y comunicación para mejorar la recopilación, análisis y difusión de datos. Se destacó la necesidad
+  de una herramienta tecnológica robusta para gestionar información de GRD y se definió el concepto de sistema de información en el contexto de ciudades inteligentes, subrayando la importancia de la participación
+  comunitaria y la inteligencia artificial. Se presentaron cinco componentes interconectados: información base, científica, para manejo de desastres, planeación territorial y seguimiento, proporcionando
+  una visión integral de la GRD. La sesión mostró cómo tecnologías accesibles, como visores básicos, permiten identificar escenarios de riesgo y mejorar la gestión. Se expuso el caso de Antioquia y el sistema
+  del DAGRAN, que logró avances en caracterización territorial, atención a emergencias y difusión del conocimiento. Finalmente, se resaltó el potencial de la inteligencia artificial y tecnologías emergentes
+  para fortalecer la GRD regional.'
+categories:
+- Sesiones Especiales
+---
+
+## Video de la sesión
+
+<iframe src="https://drive.google.com/file/d/1vopVmToR1Biy4ON8YLr6uLorEoKjxRok/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>

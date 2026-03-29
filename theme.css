@@ -1,0 +1,17 @@
+/*-- scss:rules --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --bs-nav-pills-link-active-bg: #efc078;
+}
+
+.figure-caption {
+  text-align: center;
+  font-size: .8em !important;
+}
+
+.sidebar-logo {
+  max-width: 100% !important;
+}

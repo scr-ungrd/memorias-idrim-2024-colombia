@@ -1,0 +1,26 @@
+---
+title: 'DesignSafe.CI: ciberinfraestructura para avanzar en la cooperación de la investigación de amenazas naturales'
+author:
+- name: Jean-Paul Pinelli
+  affiliations:
+  - Professor, Department of Mechanical and Civil Engineering, Florida Institute of Technology
+- name: Raul Rincon
+  affiliations:
+  - Doctoral Candidate, Department of Civil Engineering, Rice University
+keywords:
+- Ciberinfraestructura
+- DesignSafe-CI
+- NHERI
+- simulación de desastres
+- datos abiertos
+- modelado computacional
+abstract: La sesión trató sobre el uso de DesignSafe-CI, una plataforma ciberinfrastructura desarrollada por el programa NHERI (Natural Hazards Engineering Research Infrastructure) de la NSF en EE.UU. Esta
+  plataforma proporciona acceso a herramientas avanzadas para la investigación, análisis y visualización de datos relacionados con desastres como terremotos, huracanes, tornados e inundaciones. La sesión
+  presenta cómo investigadores pueden usar DesignSafe para integrar sus datos, modelar escenarios extremos y compartir resultados de forma colaborativa.
+categories:
+- Sesiones Especiales
+---
+
+## Video de la sesión
+
+<iframe src="https://drive.google.com/file/d/1RLjlKDgEgTzneGvsr3iU9zKbyPK_iLqX/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>

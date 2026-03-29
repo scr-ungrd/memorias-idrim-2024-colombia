@@ -6,6 +6,9 @@ book:
   subtitle: Comunidades Resilientes a los Desastres por la Vida
   date: '2025-02-01'
   language: es
+  reader-mode: true
+  back-to-top-navigation: true
+  search: true
   author:
   - Ana Milena Prada
   - Ana María Cruz
@@ -17,72 +20,78 @@ book:
   - index.qmd
   - introduccion.qmd
   - indice.qmd
+  - plenarias/index.qmd
   - part: "Sesiones especiales"
     chapters:
     - text: "Sesión especial 1"
-      href: sesiones/especiales/charla-01/index.qmd
+      href: sesiones-especiales/charla-01/index.qmd
     - text: "Sesión especial 2"
-      href: sesiones/especiales/charla-02/index.qmd
+      href: sesiones-especiales/charla-02/index.qmd
     - text: "Sesión especial 3"
-      href: sesiones/especiales/charla-03/index.qmd
+      href: sesiones-especiales/charla-03/index.qmd
     - text: "Sesión especial 4"
-      href: sesiones/especiales/charla-04/index.qmd
+      href: sesiones-especiales/charla-04/index.qmd
     - text: "Sesión especial 5"
-      href: sesiones/especiales/charla-05/index.qmd
+      href: sesiones-especiales/charla-05/index.qmd
     - text: "Sesión especial 6"
-      href: sesiones/especiales/charla-06/index.qmd
+      href: sesiones-especiales/charla-06/index.qmd
     - text: "Sesión especial 7"
-      href: sesiones/especiales/charla-07/index.qmd
+      href: sesiones-especiales/charla-07/index.qmd
     - text: "Sesión especial 8"
-      href: sesiones/especiales/charla-08/index.qmd
+      href: sesiones-especiales/charla-08/index.qmd
     - text: "Sesión especial 9"
-      href: sesiones/especiales/charla-09/index.qmd
+      href: sesiones-especiales/charla-09/index.qmd
     - text: "Sesión especial 10"
-      href: sesiones/especiales/charla-10/index.qmd
+      href: sesiones-especiales/charla-10/index.qmd
     - text: "Sesión especial 11"
-      href: sesiones/especiales/charla-11/index.qmd
+      href: sesiones-especiales/charla-11/index.qmd
     - text: "Sesión especial 12"
-      href: sesiones/especiales/charla-12/index.qmd
+      href: sesiones-especiales/charla-12/index.qmd
     - text: "Sesión especial 14"
-      href: sesiones/especiales/charla-13/index.qmd
+      href: sesiones-especiales/charla-13/index.qmd
     - text: "Sesión especial 15"
-      href: sesiones/especiales/charla-15/index.qmd
+      href: sesiones-especiales/charla-15/index.qmd
     - text: "Sesión especial 16"
-      href: sesiones/especiales/charla-14/index.qmd
+      href: sesiones-especiales/charla-14/index.qmd
     - text: "Sesión especial 17"
-      href: sesiones/especiales/charla-16/index.qmd
+      href: sesiones-especiales/charla-16/index.qmd
   - part: "Sesiones paralelas"
     chapters:
-    - sesiones/sesion-01/index.qmd
-    - sesiones/sesion-02/index.qmd
-    - sesiones/sesion-03/index.qmd
-    - sesiones/sesion-04/index.qmd
-    - sesiones/sesion-05/index.qmd
-    - sesiones/sesion-06/index.qmd
-    - sesiones/sesion-07/index.qmd
-    - sesiones/sesion-08/index.qmd
-    - sesiones/sesion-09/index.qmd
-    - sesiones/sesion-10/index.qmd
-    - sesiones/sesion-11/index.qmd
-    - sesiones/sesion-12/index.qmd
-    - sesiones/sesion-13/index.qmd
-    - sesiones/sesion-14/index.qmd
-    - sesiones/sesion-15/index.qmd
-    - sesiones/sesion-16/index.qmd
-    - sesiones/sesion-17/index.qmd
-    - sesiones/sesion-18/index.qmd
-    - sesiones/sesion-19/index.qmd
-    - sesiones/sesion-20/index.qmd
-    - sesiones/sesion-21/index.qmd
-    - sesiones/sesion-22/index.qmd
-    - sesiones/sesion-23/index.qmd
-    - sesiones/sesion-24/index.qmd
+    - sesiones-paralelas/sesion-01/index.qmd
+    - sesiones-paralelas/sesion-02/index.qmd
+    - sesiones-paralelas/sesion-03/index.qmd
+    - sesiones-paralelas/sesion-04/index.qmd
+    - sesiones-paralelas/sesion-05/index.qmd
+    - sesiones-paralelas/sesion-06/index.qmd
+    - sesiones-paralelas/sesion-07/index.qmd
+    - sesiones-paralelas/sesion-08/index.qmd
+    - sesiones-paralelas/sesion-09/index.qmd
+    - sesiones-paralelas/sesion-10/index.qmd
+    - sesiones-paralelas/sesion-11/index.qmd
+    - sesiones-paralelas/sesion-12/index.qmd
+    - sesiones-paralelas/sesion-13/index.qmd
+    - sesiones-paralelas/sesion-14/index.qmd
+    - sesiones-paralelas/sesion-15/index.qmd
+    - sesiones-paralelas/sesion-16/index.qmd
+    - sesiones-paralelas/sesion-17/index.qmd
+    - sesiones-paralelas/sesion-18/index.qmd
+    - sesiones-paralelas/sesion-19/index.qmd
+    - sesiones-paralelas/sesion-20/index.qmd
+    - sesiones-paralelas/sesion-21/index.qmd
+    - sesiones-paralelas/sesion-22/index.qmd
+    - sesiones-paralelas/sesion-23/index.qmd
+    - sesiones-paralelas/sesion-24/index.qmd
 sidebar:
-  collapse-level: 2
+  collapse-level: 1
 format:
   html:
-    theme: cosmo
+    theme:
+      - theme.css
+      - theme.scss
+      - lumen
     css: styles.css
+    mainfont: Roboto
+    monofont: Fira Code
     toc: true
     toc-depth: 0
     lang: es

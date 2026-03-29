@@ -3361,7 +3361,9 @@ window.Quarto = {
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   document.querySelectorAll('.sidebar-section.collapse.show').forEach(function (el) {
-    el.classList.remove('show');
+    if (!el.querySelector('.active')) {
+      el.classList.remove('show');
+    }
   });
 });
 </script>

@@ -23,66 +23,213 @@ book:
   - plenarias/index.qmd
   - part: "Sesiones especiales"
     chapters:
-    - text: "Sesión especial 1"
+    - text: "SE1-Introducción a la Herramienta Scorecard"
       href: sesiones-especiales/charla-01/index.qmd
-    - text: "Sesión especial 2"
+    - text: "SE2-Voces Diversas e Inclusivas, un Futuro Resiliente"
       href: sesiones-especiales/charla-02/index.qmd
-    - text: "Sesión especial 3"
+    - text: "SE3-Revelando la Dinámica del Riesgo con Cadenas"
       href: sesiones-especiales/charla-03/index.qmd
-    - text: "Sesión especial 4"
+    - text: "SE4-Colombia Resiliente"
       href: sesiones-especiales/charla-04/index.qmd
-    - text: "Sesión especial 5"
+    - text: "SE5-Continuación de la ciencia de la implementación"
       href: sesiones-especiales/charla-05/index.qmd
-    - text: "Sesión especial 6"
+    - text: "SE6-Los beneficios y desafíos de la investigación"
       href: sesiones-especiales/charla-06/index.qmd
-    - text: "Sesión especial 7"
+    - text: "SE7-De la gestión de riesgos Natech"
       href: sesiones-especiales/charla-07/index.qmd
-    - text: "Sesión especial 8"
+    - text: "SE8-El impacto económico de los desastres"
       href: sesiones-especiales/charla-08/index.qmd
-    - text: "Sesión especial 9"
+    - text: "SE9-¿Estoy en riesgo si ocurre un sismo?"
       href: sesiones-especiales/charla-09/index.qmd
-    - text: "Sesión especial 10"
+    - text: "SE10-Comunidad con Ciencia - Cómo construir una mejor"
       href: sesiones-especiales/charla-10/index.qmd
-    - text: "Sesión especial 11"
+    - text: "SE11-Hospitales resilientes frente a emergencias sanitarias y desastres"
       href: sesiones-especiales/charla-11/index.qmd
-    - text: "Sesión especial 12"
+    - text: "SE12-Digitalización del mapeo participativo del riesgo basado"
       href: sesiones-especiales/charla-12/index.qmd
-    - text: "Sesión especial 14"
+    - text: "SE14-DesignSafe.CI"
       href: sesiones-especiales/charla-13/index.qmd
-    - text: "Sesión especial 15"
+    - text: "SE15-Qué es la vivienda resiliente con enfoque comunitario?"
       href: sesiones-especiales/charla-15/index.qmd
-    - text: "Sesión especial 16"
+    - text: "SE16-Sistemas de Información para la Gestión del Riesgo"
       href: sesiones-especiales/charla-14/index.qmd
-    - text: "Sesión especial 17"
+    - text: "SE17-Mapeo colaborativo y redes multisectoriales"
       href: sesiones-especiales/charla-16/index.qmd
   - part: "Sesiones paralelas"
     chapters:
     - sesiones-paralelas/sesion-01/index.qmd
+    - sesiones-paralelas/sesion-01/charla-01/index.qmd
+    - sesiones-paralelas/sesion-01/charla-02/index.qmd
+    - sesiones-paralelas/sesion-01/charla-03/index.qmd
+    - sesiones-paralelas/sesion-01/charla-04/index.qmd
+    - sesiones-paralelas/sesion-01/charla-05/index.qmd
+    - sesiones-paralelas/sesion-01/charla-06/index.qmd
     - sesiones-paralelas/sesion-02/index.qmd
+    - sesiones-paralelas/sesion-02/charla-01/index.qmd
+    - sesiones-paralelas/sesion-02/charla-02/index.qmd
+    - sesiones-paralelas/sesion-02/charla-03/index.qmd
+    - sesiones-paralelas/sesion-02/charla-04/index.qmd
+    - sesiones-paralelas/sesion-02/charla-05/index.qmd
+    - sesiones-paralelas/sesion-02/charla-06/index.qmd
     - sesiones-paralelas/sesion-03/index.qmd
+    - sesiones-paralelas/sesion-03/charla-01/index.qmd
+    - sesiones-paralelas/sesion-03/charla-02/index.qmd
+    - sesiones-paralelas/sesion-03/charla-03/index.qmd
+    - sesiones-paralelas/sesion-03/charla-04/index.qmd
+    - sesiones-paralelas/sesion-03/charla-05/index.qmd
+    - sesiones-paralelas/sesion-03/charla-06/index.qmd
+    - sesiones-paralelas/sesion-03/charla-07/index.qmd
     - sesiones-paralelas/sesion-04/index.qmd
+    - sesiones-paralelas/sesion-04/charla-01/index.qmd
+    - sesiones-paralelas/sesion-04/charla-02/index.qmd
+    - sesiones-paralelas/sesion-04/charla-03/index.qmd
+    - sesiones-paralelas/sesion-04/charla-04/index.qmd
+    - sesiones-paralelas/sesion-04/charla-05/index.qmd
     - sesiones-paralelas/sesion-05/index.qmd
+    - sesiones-paralelas/sesion-05/charla-01/index.qmd
+    - sesiones-paralelas/sesion-05/charla-02/index.qmd
+    - sesiones-paralelas/sesion-05/charla-03/index.qmd
+    - sesiones-paralelas/sesion-05/charla-04/index.qmd
+    - sesiones-paralelas/sesion-05/charla-05/index.qmd
+    - sesiones-paralelas/sesion-05/charla-06/index.qmd
     - sesiones-paralelas/sesion-06/index.qmd
+    - sesiones-paralelas/sesion-06/charla-01/index.qmd
+    - sesiones-paralelas/sesion-06/charla-02/index.qmd
+    - sesiones-paralelas/sesion-06/charla-03/index.qmd
+    - sesiones-paralelas/sesion-06/charla-04/index.qmd
+    - sesiones-paralelas/sesion-06/charla-05/index.qmd
+    - sesiones-paralelas/sesion-06/charla-06/index.qmd
     - sesiones-paralelas/sesion-07/index.qmd
+    - sesiones-paralelas/sesion-07/charla-01/index.qmd
+    - sesiones-paralelas/sesion-07/charla-02/index.qmd
+    - sesiones-paralelas/sesion-07/charla-03/index.qmd
+    - sesiones-paralelas/sesion-07/charla-04/index.qmd
+    - sesiones-paralelas/sesion-07/charla-05/index.qmd
+    - sesiones-paralelas/sesion-07/charla-06/index.qmd
     - sesiones-paralelas/sesion-08/index.qmd
+    - sesiones-paralelas/sesion-08/charla-01/index.qmd
+    - sesiones-paralelas/sesion-08/charla-02/index.qmd
+    - sesiones-paralelas/sesion-08/charla-03/index.qmd
+    - sesiones-paralelas/sesion-08/charla-04/index.qmd
+    - sesiones-paralelas/sesion-08/charla-05/index.qmd
+    - sesiones-paralelas/sesion-08/charla-06/index.qmd
     - sesiones-paralelas/sesion-09/index.qmd
+    - sesiones-paralelas/sesion-09/charla-01/index.qmd
+    - sesiones-paralelas/sesion-09/charla-02/index.qmd
+    - sesiones-paralelas/sesion-09/charla-03/index.qmd
+    - sesiones-paralelas/sesion-09/charla-04/index.qmd
+    - sesiones-paralelas/sesion-09/charla-05/index.qmd
+    - sesiones-paralelas/sesion-09/charla-06/index.qmd
     - sesiones-paralelas/sesion-10/index.qmd
+    - sesiones-paralelas/sesion-10/charla-01/index.qmd
+    - sesiones-paralelas/sesion-10/charla-02/index.qmd
+    - sesiones-paralelas/sesion-10/charla-03/index.qmd
+    - sesiones-paralelas/sesion-10/charla-04/index.qmd
+    - sesiones-paralelas/sesion-10/charla-05/index.qmd
+    - sesiones-paralelas/sesion-10/charla-06/index.qmd
     - sesiones-paralelas/sesion-11/index.qmd
+    - sesiones-paralelas/sesion-11/charla-01/index.qmd
+    - sesiones-paralelas/sesion-11/charla-02/index.qmd
+    - sesiones-paralelas/sesion-11/charla-03/index.qmd
+    - sesiones-paralelas/sesion-11/charla-04/index.qmd
+    - sesiones-paralelas/sesion-11/charla-05/index.qmd
+    - sesiones-paralelas/sesion-11/charla-06/index.qmd
     - sesiones-paralelas/sesion-12/index.qmd
+    - sesiones-paralelas/sesion-12/charla-01/index.qmd
+    - sesiones-paralelas/sesion-12/charla-02/index.qmd
+    - sesiones-paralelas/sesion-12/charla-03/index.qmd
+    - sesiones-paralelas/sesion-12/charla-04/index.qmd
+    - sesiones-paralelas/sesion-12/charla-05/index.qmd
     - sesiones-paralelas/sesion-13/index.qmd
+    - sesiones-paralelas/sesion-13/charla-01/index.qmd
+    - sesiones-paralelas/sesion-13/charla-02/index.qmd
+    - sesiones-paralelas/sesion-13/charla-03/index.qmd
+    - sesiones-paralelas/sesion-13/charla-04/index.qmd
+    - sesiones-paralelas/sesion-13/charla-05/index.qmd
+    - sesiones-paralelas/sesion-13/charla-06/index.qmd
     - sesiones-paralelas/sesion-14/index.qmd
+    - sesiones-paralelas/sesion-14/charla-01/index.qmd
+    - sesiones-paralelas/sesion-14/charla-02/index.qmd
+    - sesiones-paralelas/sesion-14/charla-03/index.qmd
+    - sesiones-paralelas/sesion-14/charla-04/index.qmd
+    - sesiones-paralelas/sesion-14/charla-05/index.qmd
+    - sesiones-paralelas/sesion-14/charla-06/index.qmd
     - sesiones-paralelas/sesion-15/index.qmd
+    - sesiones-paralelas/sesion-15/charla-01/index.qmd
+    - sesiones-paralelas/sesion-15/charla-02/index.qmd
+    - sesiones-paralelas/sesion-15/charla-03/index.qmd
+    - sesiones-paralelas/sesion-15/charla-04/index.qmd
+    - sesiones-paralelas/sesion-15/charla-05/index.qmd
     - sesiones-paralelas/sesion-16/index.qmd
+    - sesiones-paralelas/sesion-16/charla-01/index.qmd
+    - sesiones-paralelas/sesion-16/charla-02/index.qmd
+    - sesiones-paralelas/sesion-16/charla-03/index.qmd
+    - sesiones-paralelas/sesion-16/charla-04/index.qmd
+    - sesiones-paralelas/sesion-16/charla-05/index.qmd
+    - sesiones-paralelas/sesion-16/charla-06/index.qmd
     - sesiones-paralelas/sesion-17/index.qmd
+    - sesiones-paralelas/sesion-17/charla-01/index.qmd
+    - sesiones-paralelas/sesion-17/charla-02/index.qmd
+    - sesiones-paralelas/sesion-17/charla-03/index.qmd
+    - sesiones-paralelas/sesion-17/charla-04/index.qmd
+    - sesiones-paralelas/sesion-17/charla-05/index.qmd
+    - sesiones-paralelas/sesion-17/charla-06/index.qmd
+    - sesiones-paralelas/sesion-17/charla-07/index.qmd
     - sesiones-paralelas/sesion-18/index.qmd
+    - sesiones-paralelas/sesion-18/charla-01/index.qmd
+    - sesiones-paralelas/sesion-18/charla-02/index.qmd
+    - sesiones-paralelas/sesion-18/charla-03/index.qmd
+    - sesiones-paralelas/sesion-18/charla-04/index.qmd
+    - sesiones-paralelas/sesion-18/charla-05/index.qmd
+    - sesiones-paralelas/sesion-18/charla-06/index.qmd
+    - sesiones-paralelas/sesion-18/charla-07/index.qmd
     - sesiones-paralelas/sesion-19/index.qmd
+    - sesiones-paralelas/sesion-19/charla-01/index.qmd
+    - sesiones-paralelas/sesion-19/charla-02/index.qmd
+    - sesiones-paralelas/sesion-19/charla-03/index.qmd
+    - sesiones-paralelas/sesion-19/charla-04/index.qmd
+    - sesiones-paralelas/sesion-19/charla-05/index.qmd
+    - sesiones-paralelas/sesion-19/charla-06/index.qmd
+    - sesiones-paralelas/sesion-19/charla-07/index.qmd
+    - sesiones-paralelas/sesion-19/charla-08/index.qmd
     - sesiones-paralelas/sesion-20/index.qmd
+    - sesiones-paralelas/sesion-20/charla-01/index.qmd
+    - sesiones-paralelas/sesion-20/charla-02/index.qmd
+    - sesiones-paralelas/sesion-20/charla-03/index.qmd
+    - sesiones-paralelas/sesion-20/charla-04/index.qmd
+    - sesiones-paralelas/sesion-20/charla-05/index.qmd
+    - sesiones-paralelas/sesion-20/charla-06/index.qmd
+    - sesiones-paralelas/sesion-20/charla-07/index.qmd
+    - sesiones-paralelas/sesion-20/charla-08/index.qmd
     - sesiones-paralelas/sesion-21/index.qmd
+    - sesiones-paralelas/sesion-21/charla-01/index.qmd
+    - sesiones-paralelas/sesion-21/charla-02/index.qmd
+    - sesiones-paralelas/sesion-21/charla-03/index.qmd
+    - sesiones-paralelas/sesion-21/charla-04/index.qmd
+    - sesiones-paralelas/sesion-21/charla-05/index.qmd
+    - sesiones-paralelas/sesion-21/charla-06/index.qmd
     - sesiones-paralelas/sesion-22/index.qmd
+    - sesiones-paralelas/sesion-22/charla-01/index.qmd
+    - sesiones-paralelas/sesion-22/charla-02/index.qmd
+    - sesiones-paralelas/sesion-22/charla-03/index.qmd
+    - sesiones-paralelas/sesion-22/charla-04/index.qmd
+    - sesiones-paralelas/sesion-22/charla-05/index.qmd
+    - sesiones-paralelas/sesion-22/charla-06/index.qmd
     - sesiones-paralelas/sesion-23/index.qmd
+    - sesiones-paralelas/sesion-23/charla-01/index.qmd
+    - sesiones-paralelas/sesion-23/charla-02/index.qmd
+    - sesiones-paralelas/sesion-23/charla-03/index.qmd
+    - sesiones-paralelas/sesion-23/charla-04/index.qmd
+    - sesiones-paralelas/sesion-23/charla-05/index.qmd
     - sesiones-paralelas/sesion-24/index.qmd
+    - sesiones-paralelas/sesion-24/charla-01/index.qmd
+    - sesiones-paralelas/sesion-24/charla-02/index.qmd
+    - sesiones-paralelas/sesion-24/charla-03/index.qmd
+    - sesiones-paralelas/sesion-24/charla-04/index.qmd
+    - sesiones-paralelas/sesion-24/charla-05/index.qmd
+    - sesiones-paralelas/sesion-24/charla-06/index.qmd
 sidebar:
-  collapse-level: 0
+  collapse-level: 1
 format:
   html:
     theme:
@@ -93,7 +240,7 @@ format:
     mainfont: Roboto
     monofont: Fira Code
     toc: true
-    toc-depth: 0
+    toc-depth: 1
     lang: es
     number-sections: false
     include-after-body: collapse-sidebar.html

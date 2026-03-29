@@ -5,8 +5,8 @@ listing:
     type: table
     categories: true
     contents:
-      - sesiones/sesion-*/charla-*/index.qmd
-      - sesiones/especiales/charla-*/index.qmd
+      - sesiones-paralelas/sesion-*/charla-*/index.qmd
+      - sesiones-especiales/charla-*/index.qmd
     fields: [categories, title, author]
     field-display-names:
       categories: "Sesión"

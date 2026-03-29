@@ -3,6 +3,8 @@ title: "Memorias de la 14° Conferencia Internacional IDRIM"
 subtitle: "Comunidades Resilientes a los Desastres por la Vida — IDRiM 2024"
 ---
 
+![](cover.png){fig-align="center" width="60%"}
+
 ## Acerca de estas memorias
 
 Este libro recopila las memorias de la **14° Conferencia Internacional de la Sociedad Internacional para la Gestión Integrada del Riesgo de Desastres (IDRiM)**, celebrada del 28 al 30 de agosto de 2024 en Bogotá, Colombia, bajo el lema *"Comunidades Resilientes a los Desastres por la Vida"*.

@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: _book
+  output-dir: docs
 book:
   title: Memorias de la 14° Conferencia Internacional IDRIM
   subtitle: Comunidades Resilientes a los Desastres por la Vida

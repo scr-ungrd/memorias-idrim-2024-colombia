@@ -15,7 +15,7 @@ title: "Sesión 20. Capacidad adaptativa y reducción de la vulnerabilidad ante 
 
 ## Video de la sesión
 
-<iframe src="https://drive.google.com/file/d/12lTSKdX_k4_pfSVRhtJEZ2TSC6IjCCN2/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+<a href="https://drive.google.com/file/d/12lTSKdX_k4_pfSVRhtJEZ2TSC6IjCCN2/view" target="_blank" class="btn btn-primary">&#9654; Ver video en Google Drive</a>
 
-<iframe src="https://drive.google.com/file/d/1ImKYwBDFoT6f5nSMwN9mRw3cvv6zn-6M/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+<a href="https://drive.google.com/file/d/1ImKYwBDFoT6f5nSMwN9mRw3cvv6zn-6M/view" target="_blank" class="btn btn-primary">&#9654; Ver video en Google Drive</a>
 

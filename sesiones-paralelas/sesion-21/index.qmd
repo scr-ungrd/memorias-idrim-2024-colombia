@@ -13,7 +13,7 @@ title: "Sesión 21. Amazonia, comunidades indígenas y locales"
 
 ## Video de la sesión
 
-<iframe src="https://drive.google.com/file/d/17n0yU_4epa5aQ3DBUoOxIDc5leToPUIv/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+<a href="https://drive.google.com/file/d/17n0yU_4epa5aQ3DBUoOxIDc5leToPUIv/view" target="_blank" class="btn btn-primary">&#9654; Ver video en Google Drive</a>
 
-<iframe src="https://drive.google.com/file/d/1sexrKT1NiJAifs3M6L1u3392tbg_lBzv/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+<a href="https://drive.google.com/file/d/1sexrKT1NiJAifs3M6L1u3392tbg_lBzv/view" target="_blank" class="btn btn-primary">&#9654; Ver video en Google Drive</a>
 

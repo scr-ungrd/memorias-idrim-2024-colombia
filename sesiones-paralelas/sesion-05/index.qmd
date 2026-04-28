@@ -13,5 +13,5 @@ title: "Sesión 5. Modelado y pronóstico de geoamenazas"
 
 ## Video de la sesión
 
-<iframe src="https://drive.google.com/file/d/1ufxRO9-7ucTTreyDTR_xg6YozzfsnMww/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+<a href="https://drive.google.com/file/d/1ufxRO9-7ucTTreyDTR_xg6YozzfsnMww/view" target="_blank" class="btn btn-primary">&#9654; Ver video en Google Drive</a>
 

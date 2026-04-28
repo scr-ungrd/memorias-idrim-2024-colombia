@@ -23,33 +23,33 @@ title: "Sesiones Especiales"
 
 ## Video de la sesión
 
-<iframe src="https://drive.google.com/file/d/1orVE4sfhS78GFu5iXEWpaUb751UNYRzO/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+<a href="https://drive.google.com/file/d/1orVE4sfhS78GFu5iXEWpaUb751UNYRzO/view" target="_blank" class="btn btn-primary">&#9654; Ver video en Google Drive</a>
 
-<iframe src="https://drive.google.com/file/d/1B9DmnDMXIEpVHeClfZoXSiFeOHJryHaw/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+<a href="https://drive.google.com/file/d/1B9DmnDMXIEpVHeClfZoXSiFeOHJryHaw/view" target="_blank" class="btn btn-primary">&#9654; Ver video en Google Drive</a>
 
-<iframe src="https://drive.google.com/file/d/1dxFif-pWxEo_bOooEAh7J07tsq-iLazh/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+<a href="https://drive.google.com/file/d/1dxFif-pWxEo_bOooEAh7J07tsq-iLazh/view" target="_blank" class="btn btn-primary">&#9654; Ver video en Google Drive</a>
 
-<iframe src="https://drive.google.com/file/d/1N-dhMWxhzBGyrcl2cwSLMPCTUgB9ZfVc/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+<a href="https://drive.google.com/file/d/1N-dhMWxhzBGyrcl2cwSLMPCTUgB9ZfVc/view" target="_blank" class="btn btn-primary">&#9654; Ver video en Google Drive</a>
 
-<iframe src="https://drive.google.com/file/d/1NXzYkfYz4UwLqGrwPfQjgds9lConyKny/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+<a href="https://drive.google.com/file/d/1NXzYkfYz4UwLqGrwPfQjgds9lConyKny/view" target="_blank" class="btn btn-primary">&#9654; Ver video en Google Drive</a>
 
-<iframe src="https://drive.google.com/file/d/1ODGTdSFwWJQBwFXocIh2KkrjUvJnRPnN/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+<a href="https://drive.google.com/file/d/1ODGTdSFwWJQBwFXocIh2KkrjUvJnRPnN/view" target="_blank" class="btn btn-primary">&#9654; Ver video en Google Drive</a>
 
-<iframe src="https://drive.google.com/file/d/1hkZLnPPXrNGr7tvFVGdVhMlPxsVoiEDY/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+<a href="https://drive.google.com/file/d/1hkZLnPPXrNGr7tvFVGdVhMlPxsVoiEDY/view" target="_blank" class="btn btn-primary">&#9654; Ver video en Google Drive</a>
 
-<iframe src="https://drive.google.com/file/d/1OHDGEXDuDd4q-cvgX6VZnJM1JJ2QcIyx/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+<a href="https://drive.google.com/file/d/1OHDGEXDuDd4q-cvgX6VZnJM1JJ2QcIyx/view" target="_blank" class="btn btn-primary">&#9654; Ver video en Google Drive</a>
 
-<iframe src="https://drive.google.com/file/d/1uYE53E4ncCsS2FNpRpUFEi1BVFuPqHFY/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+<a href="https://drive.google.com/file/d/1uYE53E4ncCsS2FNpRpUFEi1BVFuPqHFY/view" target="_blank" class="btn btn-primary">&#9654; Ver video en Google Drive</a>
 
-<iframe src="https://drive.google.com/file/d/1VUW3FpnLdrLlRuJA_rK_haTeFNYgexum/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+<a href="https://drive.google.com/file/d/1VUW3FpnLdrLlRuJA_rK_haTeFNYgexum/view" target="_blank" class="btn btn-primary">&#9654; Ver video en Google Drive</a>
 
-<iframe src="https://drive.google.com/file/d/1hyU5jagYO_pBZS3fuxrBGAYs7ZUyb5vT/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+<a href="https://drive.google.com/file/d/1hyU5jagYO_pBZS3fuxrBGAYs7ZUyb5vT/view" target="_blank" class="btn btn-primary">&#9654; Ver video en Google Drive</a>
 
-<iframe src="https://drive.google.com/file/d/1gZLO8mPWTF6-KJlGeeG9XBDNFc0Y-b7l/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+<a href="https://drive.google.com/file/d/1gZLO8mPWTF6-KJlGeeG9XBDNFc0Y-b7l/view" target="_blank" class="btn btn-primary">&#9654; Ver video en Google Drive</a>
 
-<iframe src="https://drive.google.com/file/d/1RLjlKDgEgTzneGvsr3iU9zKbyPK_iLqX/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+<a href="https://drive.google.com/file/d/1RLjlKDgEgTzneGvsr3iU9zKbyPK_iLqX/view" target="_blank" class="btn btn-primary">&#9654; Ver video en Google Drive</a>
 
-<iframe src="https://drive.google.com/file/d/1vopVmToR1Biy4ON8YLr6uLorEoKjxRok/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+<a href="https://drive.google.com/file/d/1vopVmToR1Biy4ON8YLr6uLorEoKjxRok/view" target="_blank" class="btn btn-primary">&#9654; Ver video en Google Drive</a>
 
-<iframe src="https://drive.google.com/file/d/17rkQQuLdQMoDXE27Ll97HRpGCSfBlrh8/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+<a href="https://drive.google.com/file/d/17rkQQuLdQMoDXE27Ll97HRpGCSfBlrh8/view" target="_blank" class="btn btn-primary">&#9654; Ver video en Google Drive</a>
 

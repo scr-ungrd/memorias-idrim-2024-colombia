@@ -14,5 +14,5 @@ title: "Sesión 3. Explorando las amenazas marino costeras"
 
 ## Video de la sesión
 
-<iframe src="https://drive.google.com/file/d/1Lj3UyvT073UHul4SATozGvsTtzX-KPTz/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+<a href="https://drive.google.com/file/d/1Lj3UyvT073UHul4SATozGvsTtzX-KPTz/view" target="_blank" class="btn btn-primary">&#9654; Ver video en Google Drive</a>
 

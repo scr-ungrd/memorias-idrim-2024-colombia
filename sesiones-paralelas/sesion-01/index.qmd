@@ -13,5 +13,5 @@ title: "Sesión 1. Justicia climática, cambio climático y riesgos emergentes"
 
 ## Video de la sesión
 
-<iframe src="https://drive.google.com/file/d/18e2LYrDj5f1DWQti36HbdMiZ9nV1k-Ci/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+<a href="https://drive.google.com/file/d/18e2LYrDj5f1DWQti36HbdMiZ9nV1k-Ci/view" target="_blank" class="btn btn-primary">&#9654; Ver video en Google Drive</a>
 

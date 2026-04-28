@@ -19,4 +19,4 @@ categories:
 
 ## Video de la sesión
 
-<iframe src="https://drive.google.com/file/d/1uYE53E4ncCsS2FNpRpUFEi1BVFuPqHFY/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+<a href="https://drive.google.com/file/d/1uYE53E4ncCsS2FNpRpUFEi1BVFuPqHFY/view" target="_blank" class="btn btn-primary">&#9654; Ver video en Google Drive</a>

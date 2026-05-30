@@ -3,9 +3,9 @@
 $primary: #003A70 !default;
 $link-color: #003A70;
 $sidebar-hl: #E54D23 !default;
-$toc-color: #000;
-$toc-active-border: #003A70;
-$toc-active-background: #EEECEA !default;
+$toc-color: #222322;
+$toc-active-border: #efc078;
+$toc-active-background: #efc078 !default;
 
 /*-- scss:rules --*/
 
@@ -13,8 +13,9 @@ $toc-active-background: #EEECEA !default;
   color: #222322;
 }
 
+/* Sidebar izquierdo: item activo en azul oscuro + negrita */
 div.sidebar-item-container .active {
-  font-weight: bold;
+  font-weight: bold !important;
   color: #003A70 !important;
 }
 
@@ -22,8 +23,14 @@ div.sidebar-item-container .active {
   color: #E54D23 !important;
 }
 
-.nav-link.active {
+/* TOC derecho: sección activa con fondo naranja */
+.sidebar nav[role=doc-toc] ul > li > a.active,
+.sidebar nav[role=doc-toc] ul > li > ul > li > a.active {
   background-color: #efc078 !important;
+  border-left: 3px solid #D4952C !important;
+  border-radius: 0 4px 4px 0;
+  color: #222322 !important;
+  padding-left: 0.6em;
 }
 
 .footnotes {

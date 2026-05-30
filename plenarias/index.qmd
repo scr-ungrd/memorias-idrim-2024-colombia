@@ -1,9 +1,5 @@
 ---
 title: 'Plenarias'
-author:
-- name: Autor 1
-  affiliations:
-  
 categories:
 - Sesiones Especiales
 ---

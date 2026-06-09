@@ -9,6 +9,7 @@ book:
   reader-mode: true
   back-to-top-navigation: true
   search: true
+  repo-url: https://github.com/scr-ungrd/memorias-idrim-2024-colombia
   editor:
   - Ana Milena Prada
   - Ana María Cruz
